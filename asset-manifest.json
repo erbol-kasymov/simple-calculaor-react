@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-calculaor-react/static/css/main.ea851684.css",
+    "main.js": "/simple-calculaor-react/static/js/main.ccfeddfa.js",
+    "index.html": "/simple-calculaor-react/index.html",
+    "main.ea851684.css.map": "/simple-calculaor-react/static/css/main.ea851684.css.map",
+    "main.ccfeddfa.js.map": "/simple-calculaor-react/static/js/main.ccfeddfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea851684.css",
+    "static/js/main.ccfeddfa.js"
+  ]
+}
